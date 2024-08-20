@@ -12,7 +12,7 @@ from exception import CustomError
 from logger import logging
 import os
 
-from Machine_Learning_Project.src.components.utils import save_object
+from utils import save_object
 
 @dataclass
 class DataTransformationConfig:

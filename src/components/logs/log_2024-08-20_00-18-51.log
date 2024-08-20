@@ -1,0 +1,12 @@
+2024-08-20 00:18:54,975 - INFO - Entered the data ingestion method or component
+2024-08-20 00:18:54,999 - INFO - Read the dataset as dataframe
+2024-08-20 00:18:55,003 - INFO - Train test split initiated
+2024-08-20 00:18:55,010 - INFO - Inmgestion of the data iss completed
+2024-08-20 00:18:55,029 - INFO - Read train and test data completed
+2024-08-20 00:18:55,029 - INFO - Obtaining preprocessing object
+2024-08-20 00:18:55,029 - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+2024-08-20 00:18:55,029 - INFO - Numerical columns: ['writing_score', 'reading_score']
+2024-08-20 00:18:55,030 - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-08-20 00:18:55,039 - INFO - Saved preprocessing object.
+2024-08-20 00:18:55,040 - INFO - Split training and test input data
+2024-08-20 00:19:48,615 - INFO - Best found model on both training and testing dataset

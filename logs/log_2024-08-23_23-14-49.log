@@ -1,0 +1,8 @@
+2024-08-23 23:14:50,029 - WARNING -  * Debugger is active!
+2024-08-23 23:14:50,034 - INFO -  * Debugger PIN: 342-828-300
+2024-08-23 23:14:52,129 - INFO - 127.0.0.1 - - [23/Aug/2024 23:14:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-23 23:14:54,586 - INFO - 127.0.0.1 - - [23/Aug/2024 23:14:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-23 23:14:54,742 - INFO - 127.0.0.1 - - [23/Aug/2024 23:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-08-23 23:14:54,748 - INFO - 127.0.0.1 - - [23/Aug/2024 23:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-08-23 23:14:54,831 - INFO - 127.0.0.1 - - [23/Aug/2024 23:14:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-23 23:16:47,473 - INFO -  * Detected change in 'c:\\Users\\AnkushAnkush2\\Desktop\\Machine_Learning_Project\\src\\components\\app.py', reloading

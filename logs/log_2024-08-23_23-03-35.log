@@ -1,0 +1,13 @@
+2024-08-23 23:03:35,505 - WARNING -  * Debugger is active!
+2024-08-23 23:03:35,521 - INFO -  * Debugger PIN: 342-828-300
+2024-08-23 23:03:49,252 - INFO - 127.0.0.1 - - [23/Aug/2024 23:03:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-08-23 23:03:49,422 - INFO - 127.0.0.1 - - [23/Aug/2024 23:03:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-08-23 23:03:49,439 - INFO - 127.0.0.1 - - [23/Aug/2024 23:03:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-08-23 23:03:49,497 - INFO - 127.0.0.1 - - [23/Aug/2024 23:03:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-23 23:03:49,535 - INFO - 127.0.0.1 - - [23/Aug/2024 23:03:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-23 23:04:05,650 - INFO - 127.0.0.1 - - [23/Aug/2024 23:04:05] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+2024-08-23 23:04:05,677 - INFO - 127.0.0.1 - - [23/Aug/2024 23:04:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-08-23 23:04:05,677 - INFO - 127.0.0.1 - - [23/Aug/2024 23:04:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-08-23 23:04:05,698 - INFO - 127.0.0.1 - - [23/Aug/2024 23:04:05] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-08-23 23:04:05,722 - INFO - 127.0.0.1 - - [23/Aug/2024 23:04:05] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-08-23 23:04:30,292 - INFO -  * Detected change in 'c:\\Users\\AnkushAnkush2\\Desktop\\Machine_Learning_Project\\src\\components\\app.py', reloading

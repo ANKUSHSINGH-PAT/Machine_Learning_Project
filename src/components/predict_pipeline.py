@@ -2,7 +2,7 @@ import sys
 import pandas as pd
 import exception as CustomError
 import utils as load_object
-
+import os
 
 class PredictPipeline:
     def __init__(self):
